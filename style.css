@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.projet {
+    background: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
